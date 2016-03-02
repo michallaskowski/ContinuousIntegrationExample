@@ -2,3 +2,4 @@ git_url "https://bitbucket.org/lsk12/michal-certificates"
 
 type "development" # The default type, can be: appstore, adhoc or development
 team_id "7GSZLV7YGR"
+username "michal.laskowski.dev@gmail.com"
