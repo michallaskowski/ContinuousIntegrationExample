@@ -33,3 +33,6 @@ DerivedData
 Carthage/Build
 
 fastlane/local_config.sh
+fastlane/README.md
+fastlane/report.xml
+
