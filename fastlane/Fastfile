@@ -20,6 +20,11 @@ platform :ios do
 
     increment_build_number(build_number: number_of_commits)
 
+    match(
+      type: "adhoc",
+      readonly: true
+      )
+
     # Build
     gym(
       configuration: "Ad Hoc",
