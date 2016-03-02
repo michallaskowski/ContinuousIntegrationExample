@@ -1,7 +1,5 @@
 require 'securerandom'
 
-fastlane_version "1.64.0"
-
 default_platform :ios
 
 platform :ios do
