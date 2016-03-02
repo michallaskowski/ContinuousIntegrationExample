@@ -35,4 +35,4 @@ Carthage/Build
 fastlane/local_config.sh
 fastlane/README.md
 fastlane/report.xml
-
+fastlane/test_output/
