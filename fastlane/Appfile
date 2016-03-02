@@ -1,5 +1,5 @@
 app_identifier "net.macoscope.ci-example.app-store"
-apple_id "arek@macoscope.net"
+apple_id "michal.laskowski.dev@gmail.com"
 
 for_platform :ios do
   for_lane :test do
