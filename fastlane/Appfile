@@ -1,13 +1,13 @@
-app_identifier "net.macoscope.ci-example.app-store"
+app_identifier "net.macoscope.ci-example.match.app-store"
 apple_id "michal.laskowski.dev@gmail.com"
 
 for_platform :ios do
   for_lane :test do
-    app_identifier "net.macoscope.ci-example.development"
+    app_identifier "net.macoscope.ci-example.match.development"
   end
 
   for_lane :beta do
-    app_identifier "net.macoscope.ci-example.ad-hoc"
+    app_identifier "net.macoscope.ci-example.match.ad-hoc"
   end
 end
 

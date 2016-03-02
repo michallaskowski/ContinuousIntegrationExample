@@ -329,7 +329,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = CIExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.ci-example.development";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.ci-example.match.development";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -341,7 +341,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				INFOPLIST_FILE = CIExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.ci-example.app-store";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.ci-example.match.app-store";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = "App Store";
@@ -421,7 +421,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				INFOPLIST_FILE = CIExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.ci-example.ad-hoc";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.macoscope.ci-example.match.ad-hoc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = "Ad Hoc";
