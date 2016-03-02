@@ -1,5 +1,4 @@
 app_identifier "net.macoscope.ci-example.match.app-store"
-apple_id "michal.laskowski.dev@gmail.com"
 
 for_platform :ios do
   for_lane :test do
