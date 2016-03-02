@@ -1,6 +1,6 @@
 require 'securerandom'
 
-fastlane_version "1.61.0"
+fastlane_version "1.64.0"
 
 default_platform :ios
 
